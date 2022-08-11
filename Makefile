@@ -17,7 +17,7 @@ build:		$(HTML)
 	cp -frv static/ico/favicon.ico	$(WWWROOT)/.
 
 install:	build
-	lftp -c "open www3ftps.nd.edu; mirror -c -e -R -L $(WWWROOT) www/teaching/$(COURSE)"
+	lftp -c "open www3ftps.nd.edu; mirror -n -e -R -L $(WWWROOT) www/teaching/$(COURSE)"
 
 push:
 	git checkout docs && git pull --rebase && git push
