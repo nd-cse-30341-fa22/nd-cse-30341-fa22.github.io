@@ -21,8 +21,8 @@ body:       |
 
     <div class="row" markdown="1">
 
-    **CSE 30341** is the one of the core classes in the [Computer Science and Engineering][] 
-    program at the [University of Notre Dame][].  This course
+    **CSE 30341** is the one of the core classes in the [Computer Science and
+    Engineering] program at the [University of Notre Dame].  This course
     introduces many different aspects of modern operating systems. Topics may
     include process structure and synchronization, interprocess communication,
     concurrency and parallelism with threads, virtual memory, resource
@@ -158,10 +158,10 @@ body:       |
 
     <div class="row" markdown="1">
       <div class="col-md-12" markdown="1">
-        <h3>Office Hours</h3>
-        <div class="thumbnail">
-            <img src="static/img/office-hours.svg">
-        </div>
+      <h3>Office Hours</h3>
+      <div class="thumbnail">
+          <img src="static/img/office-hours.svg">
+      </div>
       <div>
       <div class="alert alert-success" markdown="1">
       <h4><i class="fa fa-video-camera"></i> Online Office Hours</h4>
