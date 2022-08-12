@@ -1,9 +1,9 @@
-title:      Reading 01 - TA Assignment
+title:      Reading 02 - TA Assignment
 icon:       fa-balance-scale
 navigation: []
 internal:
 external:
-    mapping:  static/yaml/reading01.yaml
+    mapping:  static/yaml/reading02.yaml
 body:       |
     <table class="table condensed table-striped">
       <thead>
