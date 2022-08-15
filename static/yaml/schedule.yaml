@@ -6,9 +6,17 @@
         topics:         Syllabus, Computer Hardware, Boot Sequence
         assignments:
           - Reading 01
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1TNgEPMqU0V_hvinPgy99cVw-QPqobRae6_csIEFAfMQ/edit?usp=sharing
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1zPJmIewH3go_jsUlY4GOBiTqiRSTc1D5T7TRvXSsrvY/edit?usp=sharing
 
       - date:           Thu 08/25
         topics:         OS Taxonomy, History, Themes
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1fgkgxDG_ZW3tff0hT0qaW2LI_5NDDpbJdu2UELCjrno/edit?usp=sharing
 
 - name:     System Calls, Processes
   days:
