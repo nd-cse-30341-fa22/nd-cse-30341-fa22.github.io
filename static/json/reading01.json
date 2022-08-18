@@ -39,11 +39,11 @@
         "type": "order",
         "question": "\n<strong>\nOrder the following stages of a typical x86 boot sequence from first to last.\n</strong>\n",
         "responses": {
-            "bios": "BIOS",
-            "mbr": "Master Boot Record (MBR)",
+            "init": "Init System",
             "bootloader": "Bootloader",
-            "kernel": "OS Kernel",
-            "init": "Init System"
+            "mbr": "Master Boot Record (MBR)",
+            "bios": "BIOS",
+            "kernel": "OS Kernel"
         }
     }
 }
