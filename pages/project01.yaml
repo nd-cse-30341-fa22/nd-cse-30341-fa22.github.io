@@ -1,6 +1,9 @@
 title:      "Project 01: Process Queue Shell"
 icon:       fa-book
-navigation: []
+navigation:
+  - name: "Home"
+    link: "index.html"
+    icon: "fa-desktop"
 internal:
 external:
 body:       |
