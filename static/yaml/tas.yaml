@@ -5,6 +5,8 @@
 - name:     Bridget Goodwine
   netid:    bgoodwin
   github:   bgoodwine
+  conflicts:
+    - cgoodwi2
 
 - name:     Simran Moolchandaney
   netid:    smoolcha
@@ -25,10 +27,14 @@
 - name:     Jean Francois Boueri Alvarez
   netid:    jboueri
   github:   jeanfboueri
+  conflicts:
+    - cboumalh
 
 - name:     Colton Kammes
   netid:    ckammes
   github:   Colton-K
+  conflicts:
+    - dcroft
 
 - name:     John Sullivan
   netid:    jsulli28
