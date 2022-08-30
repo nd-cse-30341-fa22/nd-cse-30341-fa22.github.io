@@ -31,6 +31,8 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1Pm8O4SdaIixjQOOq_cEHnVs8xiUpdEmDR6qa0-f0NP4/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f418919a-e0c7-4d81-bef8-af0100fb6096
 
       - date:           Thu 09/01
         topics:         Processes
