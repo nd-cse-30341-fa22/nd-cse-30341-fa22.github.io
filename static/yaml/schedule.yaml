@@ -39,6 +39,8 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1EMnSdwZv8ABrJAP5raYY5bdJ6SrEk31YXod1axdX-cQ/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3a192e1d-803f-415e-bc1c-af0300fcab22
 
 - name:     Scheduling
   days:
