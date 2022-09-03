@@ -48,9 +48,16 @@
         topics:         Scheduling (FIFO, Round Robin)
         assignments:
           - Reading 03
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1CR5R7gNT-S0nJWmfqaEqFvVBNtnnriTdO5p-zrTP034/edit?usp=sharing
 
       - date:           Thu 09/08
         topics:         Scheduling (MLFQ, Lottery)
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1jQ1Z9k6P1u0MyC6rw2wRxwa9Ce7oIPvJrTdKXjfobSc/edit?usp=sharing
+
 
       - date:           Sat 09/10
         assignments:
