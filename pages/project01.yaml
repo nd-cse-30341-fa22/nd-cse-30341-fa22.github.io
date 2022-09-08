@@ -330,7 +330,7 @@ body:       |
     [ ] scheduler_fifo.c        # PQSH FIFO scheduler policy (not implemented)
     [ ] scheduler_rdrn.c        # PQSH Round Robin scheduler policy (not implemented)
     [~] signal.c                # PQSH signal handlers (partially implemented)
-    [ ] timestamp.c             # PQSH timerstamp (not implemented)
+    [ ] timestamp.c             # PQSH timestamp (not implemented)
     ```
 
     Basically, some of `pqsh` shell code, signal utilities, and command-line
