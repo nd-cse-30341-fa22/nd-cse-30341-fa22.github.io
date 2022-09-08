@@ -151,7 +151,7 @@ body:       |
     like [load balancers] or [batch queues], especially in parallel or
     distributed environments such as the [cloud].
 
-    For instance, many websites use [Cloudflare] which performs load balance to
+    For instance, many websites use [Cloudflare], which performs load balancing to
     prevent [denial-of-service] attacks.  Similarly, the [CRC] uses systems
     such as [HTCondor] to schedule many jobs on the distributed computing
     cluster at Notre Dame.  In both of these situations some decision making is
