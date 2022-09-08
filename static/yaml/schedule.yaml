@@ -59,7 +59,8 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1jQ1Z9k6P1u0MyC6rw2wRxwa9Ce7oIPvJrTdKXjfobSc/edit?usp=sharing
-
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8d68bb9d-b1bc-4178-9fd1-af0a00fd5eff
 
       - date:           Sat 09/10
         assignments:
