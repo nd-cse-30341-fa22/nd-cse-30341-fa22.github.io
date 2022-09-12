@@ -217,6 +217,7 @@ body:       |
         Testing reading05 program...
          I/O System Calls                                             ... Success
          I/O Functions                                                ... Success
+         Memory Functions                                             ... Success
          SHA1 Functions                                               ... Success
          Process System Calls                                         ... Success
          Thread Functions                                             ... Success
