@@ -119,6 +119,9 @@
         topics:         Race Conditions, Deadlock
         assignments:
           - Reading 07
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1zsGYMhYoTNy9BmNyzXlFomPZlo3dGYA_15DAupmF4oo/edit?usp=sharing
 
       - date:           Thu 10/06
         topics:         Case Studies
