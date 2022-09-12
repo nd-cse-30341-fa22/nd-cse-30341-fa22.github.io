@@ -106,6 +106,9 @@
         topics:         Semaphores
         assignments:
           - Reading 06
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1V_oEemhTzXBB0WUtYQPsqqtCW7dzkyO1Mz2MM2HsuSQ/edit?usp=sharing
 
       - date:           Thu 09/29
         topics:         Structures
