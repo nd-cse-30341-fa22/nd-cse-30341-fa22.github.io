@@ -113,8 +113,9 @@ body:       |
     - Your program may only use I/O system calls such as [open], [read], and
       [close] to access the contents of each file.
 
-    - Your program must use the `SHA1_Init`, `SHA1_Update`, and `SHA1_Final`
-      functions provided by [OpenSSL].
+    - Your program must use [stat] to get the size of any files.
+
+    - Your program must use the `SHA1()` function provided by [OpenSSL].
 
     - Your program must not have any resource leaks or memory errors as
       detected by [valgrind].
@@ -170,6 +171,7 @@ body:       |
     [read]:             http://man7.org/linux/man-pages/man2/read.2.html
     [close]:            http://man7.org/linux/man-pages/man2/close.2.html
     [SHA1]:             https://en.wikipedia.org/wiki/SHA-1
+    [stat]:             http://man7.org/linux/man-pages/man2/stat.2.html
     [sha1sum]:          https://man7.org/linux/man-pages/man1/sha1sum.1.html
     [processes]:        https://en.wikipedia.org/wiki/Process_(computing)
     [OpenSSL]:          https://www.openssl.org
