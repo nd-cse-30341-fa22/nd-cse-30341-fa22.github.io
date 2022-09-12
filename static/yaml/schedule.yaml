@@ -90,9 +90,15 @@
         topics:         Locks
         assignments:
           - Reading 05
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1pXwpVooz3xXyD5yui1S2FlsTZdCrN-jc0M1kSzoSRGw/edit?usp=sharing
 
       - date:           Thu 09/22
         topics:         Condition Variables
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1L96vUwGFo3eu4Mc2C103ZpH5evV-AxPixU_bk0FOVWg/edit?usp=sharing
 
 - name:     Semaphores, Structures
   days:
