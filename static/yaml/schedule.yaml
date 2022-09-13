@@ -77,6 +77,8 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1y8KBxpJ3Psq901dtwNMqteTFXfdEJgN0fnxN8fWi2_U/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ec899ee0-d218-4c45-9962-af0f00fe4f20
 
       - date:           Tue 09/15
         topics:         Threads
