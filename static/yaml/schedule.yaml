@@ -120,6 +120,9 @@
 
       - date:           Thu 09/29
         topics:         Structures
+        items:
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=76e8ce1b-7579-45b3-afd1-af1f00fcab1a
 
 - name:     Concurrency Bugs
   days:
