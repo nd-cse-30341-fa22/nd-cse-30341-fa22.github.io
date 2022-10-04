@@ -84,6 +84,7 @@ body:       |
     [Amazon Web Services]: https://aws.amazon.com/pub-sub-messaging/
     [message passing]:  https://en.wikipedia.org/wiki/Message_passing
     [event-driven]:     https://en.wikipedia.org/wiki/Event-driven_programming
+    [HTTP]:             https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol
 
     ### Protocol
 
