@@ -127,15 +127,17 @@
 - name:     Concurrency Bugs
   days:
       - date:           Tue 10/04
-        topics:         Race Conditions, Deadlock
+        topics:         Patterns
         assignments:
           - Reading 07
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1zsGYMhYoTNy9BmNyzXlFomPZlo3dGYA_15DAupmF4oo/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5383fd99-4da7-4bd2-be47-af2400fac6f2
 
       - date:           Thu 10/06
-        topics:         Case Studies
+        topics:         Race Conditions, Deadlock
 
       - date:           Sat 10/08
         assignments:
