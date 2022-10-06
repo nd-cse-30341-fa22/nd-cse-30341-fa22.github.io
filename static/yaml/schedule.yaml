@@ -138,6 +138,9 @@
 
       - date:           Thu 10/06
         topics:         Race Conditions, Deadlock
+        items:
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=57498792-ee4b-45e7-901b-af26010228ac
 
       - date:           Sat 10/08
         assignments:
