@@ -152,6 +152,9 @@
   days:
       - date:           Tue 10/11
         topics:         Review
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1M226aq7jZLkFidgLzvAlqh8p0y-1Ao3RlUu1D-nw5I0/edit?usp=sharing
 
       - date:           Thu 10/13
         topics:         ''
