@@ -33,7 +33,7 @@
             "blocked": "A process can go from blocked to running when a system call completes.",
             "running": "A process can go from running to blocked when a system call is initiated.",
             "ready": "A process can go from blocked to ready when a system call completes.",
-            "timeslice": "A process can go from ready to running when its timeslice is up.",
+            "timeslice": "A process can go from running to ready when its timeslice is up.",
             "context": "A context switch usually occurs when a process goes from running to ready.",
             "terminated": "A process can only be terminated when it is in the waiting state."
         }
