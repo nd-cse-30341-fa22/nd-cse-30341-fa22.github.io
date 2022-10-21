@@ -173,9 +173,15 @@
         topics:         Address Space, Translation
         assignments:
           - Reading 08
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1tBpCiLOmJjtXauGk-TbZq8LYiyGZk8WUOkVJfPMdbWY/edit?usp=sharing
 
       - date:           Thu 10/27
         topics:         Free-Space Management
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1RpG_mvzJCxq2C2GWgewu2qCedaypuOaM203GggVE0e8/edit?usp=sharing
 
 - name:     Heap Management, Segmentation
   days:
