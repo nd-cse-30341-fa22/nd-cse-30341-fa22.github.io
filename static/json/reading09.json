@@ -25,7 +25,7 @@
     },
     "q05": {
         "type": "blank",
-        "question": "<strong>\n\nBased on the page table described in section 18.1 and the virtual address,\n<tt>36</tt>, answer the following questions:\n\n</strong>\n\n<ol>\n  <li>Which page is this address located? ____ (int)</li>\n  <li>Which page frame is this address located? ____ (int)</li>\n  <li>What is the offest of this address? ____ (int)</li>\n  <li>What is the physical address? ____ (int)</li>\n</ol>\n"
+        "question": "<strong>\n\nBased on the page table described in section 18.2 and the virtual address,\n<tt>36</tt>, answer the following questions:\n\n</strong>\n\n<ol>\n  <li>Which page is this address located? ____ (int)</li>\n  <li>Which page frame is this address located? ____ (int)</li>\n  <li>What is the offest of this address? ____ (int)</li>\n  <li>What is the physical address? ____ (int)</li>\n</ol>\n"
     },
     "q06": {
         "type": "blank",
