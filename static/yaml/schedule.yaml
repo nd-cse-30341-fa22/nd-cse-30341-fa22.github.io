@@ -193,6 +193,9 @@
         topics:         Heap Management
         assignments:
           - Reading 09
+        items:
+          - name:       Slides
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=79f75134-f57f-4826-b635-af4000fa915b
 
       - date:           Thu 11/03
         topics:         Segmentation
