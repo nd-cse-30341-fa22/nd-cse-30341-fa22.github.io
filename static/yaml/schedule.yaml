@@ -211,9 +211,15 @@
         topics:         Paging
         assignments:
           - Reading 10
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1KbyDAWUa-aoW1jatZYbm55Qcn-q4jgrhatPmBQoQ4GM/edit?usp=sharing
 
       - date:           Thu 11/10
         topics:         TLB / Multi-Level
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1wKxXTO9oIjddB2-In-u-cyHr6wqek1mgHB8P0H8W1Eg/edit?usp=sharing
 
       - date:           Sat 11/12
         assignments:
@@ -227,6 +233,9 @@
         topics:         Swapping
         assignments:
           - Reading 11
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1BYC3N2RmotqdcvKuOV9wo0jMZVi_WNBdSMtvszfQyRQ/edit?usp=sharing
 
       - date:           Thu 11/17
         topics:         I/O Devices
