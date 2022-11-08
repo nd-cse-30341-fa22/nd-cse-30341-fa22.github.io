@@ -214,6 +214,8 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1KbyDAWUa-aoW1jatZYbm55Qcn-q4jgrhatPmBQoQ4GM/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06681e1a-3737-4ea8-a742-af47010bdd46
 
       - date:           Thu 11/10
         topics:         TLB / Multi-Level
@@ -236,8 +238,6 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1BYC3N2RmotqdcvKuOV9wo0jMZVi_WNBdSMtvszfQyRQ/edit?usp=sharing
-          - name:       Panopto
-            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06681e1a-3737-4ea8-a742-af47010bdd46
 
       - date:           Thu 11/17
         topics:         I/O Devices
