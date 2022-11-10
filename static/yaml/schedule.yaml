@@ -243,6 +243,9 @@
 
       - date:           Thu 11/17
         topics:         I/O Devices
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/199rvGlAQfZ0SEM0LsZ8Me8DYx1aa0d5O5IIvbhyHzLQ/edit?usp=sharing
 
 - name:     RAID
   days:
@@ -250,6 +253,9 @@
         topics:         RAID
         assignments:
           - Reading 12
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1xdxpEXyOdS4dpiiF-NInQBO2qFGDiqAlUSX0xlRs72w/edit?usp=sharing
 
       - date:           Thu 11/24
         topics:         Thanksgiving
