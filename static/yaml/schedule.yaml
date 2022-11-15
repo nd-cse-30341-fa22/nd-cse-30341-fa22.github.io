@@ -240,6 +240,8 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1BYC3N2RmotqdcvKuOV9wo0jMZVi_WNBdSMtvszfQyRQ/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=73d25b68-e8b4-4f36-8317-af4e010debee
 
       - date:           Thu 11/17
         topics:         I/O Devices
