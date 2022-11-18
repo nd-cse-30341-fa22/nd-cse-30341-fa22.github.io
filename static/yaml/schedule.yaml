@@ -248,6 +248,8 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/199rvGlAQfZ0SEM0LsZ8Me8DYx1aa0d5O5IIvbhyHzLQ/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7cca7560-5d11-4a3b-8ce1-af50010f5a2a
 
 - name:     RAID
   days:
