@@ -260,6 +260,8 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1xdxpEXyOdS4dpiiF-NInQBO2qFGDiqAlUSX0xlRs72w/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b268b3ba-536d-4c9e-90cc-af550108fc34
 
       - date:           Thu 11/24
         topics:         Thanksgiving
