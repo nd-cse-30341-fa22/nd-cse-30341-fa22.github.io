@@ -146,8 +146,7 @@ body:       |
     set by previous [file systems].  In this assignment, you will explore the
     core principles about [file systems] and how they work.
 
-    **Note**: This assignment is based heavily on [Project 6: File
-    Systems](https://www3.nd.edu/~dthain/courses/cse30341/spring2017/project6/)
+    **Note**: This assignment is based heavily on **Project 6: File Systems**
     by [Doug Thain].
 
     </div>
@@ -197,7 +196,7 @@ body:       |
       <td>Project description and repository are available.</td>
     </tr>
     <tr markdown="1">
-      <td class="text-strong">Thursday, December 09</td>
+      <td class="text-strong">Thursday, December 08</td>
       <td markdown="1">File System due (pushed to GitHub `project04` branch).</td>
     </tr>
     </tbody>
@@ -738,7 +737,7 @@ body:       |
     `FileSystem` structures:
 
         :::bash
-        $ make test-unit        # Run all unit tests
+        $ make test-units       # Run all unit tests
         Running   unit_disk 0
         Running   unit_disk 1
         Running   unit_disk 2
