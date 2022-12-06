@@ -293,6 +293,8 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1Kqf3bodADYJEqhQoYH3zw5dj4op3N1qYQNMVvlGFX8g/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5d17abf1-a120-49fd-ade8-af63010bc909
 
       - date:           Thu 12/08
         topics:         Review
