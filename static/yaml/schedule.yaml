@@ -300,6 +300,11 @@
         topics:         Review
         assignments:
           - Project 04
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1w58IsNXSI-rtQed-V9DxCLMgtTQC6o29isUcwbF2Khk/edit?usp=sharing 
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c6bdc1c0-52b4-4f23-80d0-af6501049de4
 
 - name:     "Exam 02: Virtual Memory, File Systems"
 
